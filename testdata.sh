@@ -1,0 +1,11 @@
+curl http://localhost:8080/ReferrerCounter/TrackReferrerDomain?url=http://www.google.com/search
+curl http://localhost:8080/ReferrerCounter/TrackReferrerDomain?url=http://www.google.com/search
+curl http://localhost:8080/ReferrerCounter/TrackReferrerDomain?url=http://www.google.com/search
+curl http://localhost:8080/ReferrerCounter/TrackReferrerDomain?url=http://www.google.com/search
+curl http://localhost:8080/ReferrerCounter/TrackReferrerDomain?url=http://www.google.com/search
+curl http://localhost:8080/ReferrerCounter/TrackReferrerDomain?url=http://www.bing.com/search
+curl http://localhost:8080/ReferrerCounter/TrackReferrerDomain?url=http://www.bing.com/search
+curl http://localhost:8080/ReferrerCounter/TrackReferrerDomain?url=http://www.bing.com/search
+curl http://localhost:8080/ReferrerCounter/TrackReferrerDomain?url=http://www.yahoo.com/search
+curl http://localhost:8080/ReferrerCounter/TrackReferrerDomain?url=http://www.yahoo.com/search
+curl http://localhost:8080/ReferrerCounter/TrackReferrerDomain?url=http://www.altavista.com/search
